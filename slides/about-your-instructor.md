@@ -1,7 +1,6 @@
 ## About Your Instructor
-###Paige Crum
-- UT Austin grad -- Biology background
-- GDI Austin “alum”
-- Dev Bootcamp grad
-- Apprentice @ Signal (formerly BrightTag) this fall
-- Co-Leader of GDI Chicago
+###Shannon Bertucci
+- Software Developer for 10 years
+- Software Developer @ Gloo
+- Mentor @ Bloc.io
+- Self-Taught
